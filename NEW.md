@@ -26,7 +26,7 @@ $ pg_config --version
 PostgreSQL 9.4.4
 ```
 
-blurby blurby
+<!-- blurby blurby -->
 
 
 ## MIT License duh!
