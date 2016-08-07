@@ -28,7 +28,7 @@ versions = Enum.map dependencies, fn(dep) ->
 IO.inspect versions
 IO.inspect Enum.join versions, "\n"
 updated = top <>
-          "<!-- ex_versions -->]\n" <>
+          "<!-- ex_versions -->\n" <>
           "## Dependency Versions:\n" <>
           Enum.join(versions, "\n") <>
           "\n<!-- ex_versions -->" <>
