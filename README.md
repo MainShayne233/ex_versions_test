@@ -2,7 +2,7 @@
 
 some lengthy description
 
-<!-- ex_versions -->]
+<!-- ex_versions -->
 ## Dependency Versions:
 ### Elixir:
 ```bash
