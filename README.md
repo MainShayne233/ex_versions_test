@@ -12,6 +12,12 @@ Erlang/OTP 19 [erts-8.0.1] [source] [64-bit] [smp:4:4] [async-threads:10] [hipe]
 
 Elixir 1.3.1
 ```
+### npm:
+```bash
+$ npm -v
+
+3.10.3
+```
 ### Phoenix:
 ```bash
 $ mix phoenix.new -v
