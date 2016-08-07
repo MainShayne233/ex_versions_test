@@ -12,7 +12,7 @@ versions = Enum.map dependencies, fn(dep) ->
                                     IO.inspect args
                                     {version, 0} = System.cmd(cmd, args)
                                     "### #{Enum.at(dep, 0)}:\n" <>
-                                    "```\n# via #{Enum.at(dep, 1)}\n#{version}```"
+                                    "```bash\n# via #{Enum.at(dep, 1)}\n#{version}```"
                                   end
 IO.inspect versions
 IO.inspect Enum.join versions, "\n"
