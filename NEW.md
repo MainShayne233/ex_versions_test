@@ -2,8 +2,7 @@
 
 some lengthy description
 
-### HEY!
-
+<!-- ex_versions -->]
 ## Dependency Versions:
 ### Elixir:
 ```bash
@@ -25,8 +24,11 @@ $ pg_config --version
 
 PostgreSQL 9.4.4
 ```
+<!-- ex_versions -->
 
-<!-- blurby blurby -->
+### HEY!
+
+blurby blurby
 
 
 ## MIT License duh!
